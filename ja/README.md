@@ -37,7 +37,10 @@ OJM-Drone
 ### ドローン
 
 [Tello/Tello EDU](https://www.ryzerobotics.com/jp/tello)
-  
+
+(アクティベーション済のもの)
+
+
 ### PC
 
 #### OS
@@ -49,7 +52,7 @@ OJM-Drone
   
 #### ブラウザ
 
-以下のいづれか
+以下のいづれか(最新版を推奨)
 
  - Google Chrome
  - Microsoft Edge
